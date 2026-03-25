@@ -32,7 +32,7 @@ button {
     display: none;
 }
 
-.button:hover .pregunta {
+button:hover .pregunta {
     display: none;
 }
 
